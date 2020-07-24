@@ -22,4 +22,4 @@ close then in a batch w/ a page reload (over and over).
 Watch as the memory space of the Daphne/runserver.py process grows (and never
 shrinks, even when you stop publishing new messages via the spam command):
 
-<img src="http://ryanpetrello.com/repro.gif">
+http://ryanpetrello.com/repro.gif
